@@ -1,0 +1,15 @@
+click
+fastapi
+gunicorn
+python-jose[cryptography] #OAuth 2 
+mysql
+mysql-connector-python
+requests
+rich==13.2.0
+sqlparse==0.4.4
+uvicorn==0.25.0
+oracledb==1.2.2
+passlib #hasing
+PyYAML
+pydantic
+python-dotenv

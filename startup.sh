@@ -1,0 +1,1 @@
+gunicorn -c gunicorn.conf.py -k uvicorn.workers.UvicornWorker app.server:app --env prd
